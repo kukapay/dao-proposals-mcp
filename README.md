@@ -2,6 +2,10 @@
 
 An MCP server that aggregates live governance proposals from major DAOs enabling AI agents to track, analyze, and act on decentralized decision-making in real time, powered by [Snapshot](https://snapshot.box/).
 
+<a href="https://glama.ai/mcp/servers/@kukapay/dao-proposals-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kukapay/dao-proposals-mcp/badge" alt="dao-proposals-mcp MCP server" />
+</a>
+
 ![GitHub License](https://img.shields.io/github/license/kukapay/dao-proposals-mcp) 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
@@ -122,4 +126,3 @@ An MCP server that aggregates live governance proposals from major DAOs enabling
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
