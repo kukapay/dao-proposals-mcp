@@ -6,6 +6,8 @@ An MCP server that aggregates live governance proposals from major DAOs enabling
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/kukapay/dao-proposals-mcp)](https://archestra.ai/mcp-catalog/kukapay__dao-proposals-mcp)
+
 ## Features
 
 - **Tools**:
