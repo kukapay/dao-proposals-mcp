@@ -15,6 +15,10 @@ An MCP server that aggregates live governance proposals from major DAOs enabling
 - **Prompt**:
   - `summarize_proposals`: Generates a prompt to summarize recent proposals for a specified Snapshot space, leveraging the `list_proposals` tool.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/kukapay-dao-proposals-mcp).
+
 ## Prerequisites
 
 - Python 3.10+
